@@ -1,10 +1,10 @@
 # 📖 Word & Reading Time Count
 
-![GitHub repo size](https://img.shields.io/github/repo-size/alexandrekatsuura/python-word-reading-time-count?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/alexandrekatsuura/python-word-reading-time-count?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/alexandrekatsuura/python-word-reading-time-count?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/alexandrekatsuura/python-word-reading-time-count?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/alexandrekatsuura/python-word-reading-time-count?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/alexandrekatsuura/python-word-and-reading-time-count?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/alexandrekatsuura/python-word-and-reading-time-count?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/alexandrekatsuura/python-word-and-reading-time-count?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/alexandrekatsuura/python-word-and-reading-time-count?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/alexandrekatsuura/python-word-and-reading-time-count?style=for-the-badge)
 
 ## 📚 Academic Use Disclaimer
 
@@ -42,8 +42,8 @@ Make sure you have **Python 3.x** installed on your system.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/alexandrekatsuura/python-word-reading-time-count
-cd python-word-reading-time-count
+git clone https://github.com/alexandrekatsuura/python-word-and-reading-time-count
+cd python-word-and-reading-time-count
 ```
 
 2. (Optional) Create and activate a virtual environment:
@@ -86,7 +86,7 @@ This will run all tests in the `tests/` folder and report the results in verbose
 ## 📁 Project Structure
 
 ```bash
-python-word-reading-time-count/
+python-word-and-reading-time-count/
 ├── src/
 │   ├── main.py             # Main execution logic (CLI)
 │   └── service.py          # Core logic: word count & reading time
